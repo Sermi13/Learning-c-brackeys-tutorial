@@ -1,0 +1,16 @@
+C:\Users\ricob\OneDrive\Learning-C#\Program 2\bin\Debug\net5.0\Program 2.exe
+C:\Users\ricob\OneDrive\Learning-C#\Program 2\bin\Debug\net5.0\Program 2.deps.json
+C:\Users\ricob\OneDrive\Learning-C#\Program 2\bin\Debug\net5.0\Program 2.runtimeconfig.json
+C:\Users\ricob\OneDrive\Learning-C#\Program 2\bin\Debug\net5.0\Program 2.runtimeconfig.dev.json
+C:\Users\ricob\OneDrive\Learning-C#\Program 2\bin\Debug\net5.0\Program 2.dll
+C:\Users\ricob\OneDrive\Learning-C#\Program 2\bin\Debug\net5.0\ref\Program 2.dll
+C:\Users\ricob\OneDrive\Learning-C#\Program 2\bin\Debug\net5.0\Program 2.pdb
+C:\Users\ricob\OneDrive\Learning-C#\Program 2\obj\Debug\net5.0\Program 2.csprojAssemblyReference.cache
+C:\Users\ricob\OneDrive\Learning-C#\Program 2\obj\Debug\net5.0\Program 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricob\OneDrive\Learning-C#\Program 2\obj\Debug\net5.0\Program 2.AssemblyInfoInputs.cache
+C:\Users\ricob\OneDrive\Learning-C#\Program 2\obj\Debug\net5.0\Program 2.AssemblyInfo.cs
+C:\Users\ricob\OneDrive\Learning-C#\Program 2\obj\Debug\net5.0\Program 2.csproj.CoreCompileInputs.cache
+C:\Users\ricob\OneDrive\Learning-C#\Program 2\obj\Debug\net5.0\Program 2.dll
+C:\Users\ricob\OneDrive\Learning-C#\Program 2\obj\Debug\net5.0\ref\Program 2.dll
+C:\Users\ricob\OneDrive\Learning-C#\Program 2\obj\Debug\net5.0\Program 2.pdb
+C:\Users\ricob\OneDrive\Learning-C#\Program 2\obj\Debug\net5.0\Program 2.genruntimeconfig.cache
